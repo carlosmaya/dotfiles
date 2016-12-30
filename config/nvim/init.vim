@@ -37,6 +37,7 @@ let mapleader="\<SPACE>"
 set number                  " show line numbers on left
 set cursorline
 set showmatch               " show matching brackets
+set clipboard=unnamed       " copy to clipboard when in view mode
 
 colorscheme flatcolor       " set theme
 
