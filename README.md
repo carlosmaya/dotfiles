@@ -1,6 +1,7 @@
 # camara's dotfiles
 These are the dotfiles of my current configuration. 
 
-## The list
+## The stack 
 * neovim
 * zsh
+* oh-my-zsh
